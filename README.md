@@ -5,3 +5,4 @@ This project is made for the raspberrypi-pico and aims to provide speech to text
 * https://www.youtube.com/watch?v=LEDpgye3bf4
 * https://www.instructables.com/Drawing-Charts-in-OLED-Displays-Based-on-SSD1306-D/
 * https://www.berrybase.at/raspberry-pi-pico-w-rp2040-wlan-mikrocontroller-board
+* https://makeblock-micropython-api.readthedocs.io/en/latest/haloboard/haloboard/speech_recognition/speech_recognition.html
