@@ -5,3 +5,4 @@ This project is made for the raspberrypi and aims to provide speech to text func
 * https://www.youtube.com/watch?v=LEDpgye3bf4
 * [https://www.instructables.com/Drawing-Charts-in-OLED-Displays-Based-on-SSD1306-D/
 * https://www.youtube.com/watch?v=9GJ6XeB-vMg&t=331s
+* NEURAL-INTENTS: https://pypi.org/project/neuralintents/
