@@ -1,7 +1,6 @@
-# micropython-web-server-microdot
-## A sample MicroPython Web Server using the MicroDot framework  
-![Featured Image](https://user-images.githubusercontent.com/69466026/204148499-61452724-2021-4170-9686-35310c1278ba.jpg)  
+# Karen
+This project is made for the raspberrypi and aims to provide speech to text functionality with data-visualization via an oled screen. Its puropse is to act like the charcter KAREN out of Spongebob Squarepants and to answer simple questions
 
-### Writeup
-[How to create a MicroPython Web Server the easy way!](https://www.donskytech.com/how-to-create-a-micropython-web-server-the-easy-way/)
+
+![alt text]([/imgs/karen.png](https://static.wikia.nocookie.net/spongebob/images/1/18/Karen-blue-form-stock-art.png/revision/latest?cb=20200317150606))
 
